@@ -34,9 +34,12 @@ Capture:
  - Flame Chart
  - FilmStrip
  - Detached nodes
-    These nodes are referenced by the code but do not exist in the DOM tree or they are not attached to the dom tree, so they're detached.
- - FMP- First Meaningful Paint
+    These nodes are referenced by the code but do not exist in the DOM tree or they are not attached to the dom tree, so         they're detached.
+ - DCL DOMContnetLoaded event
+ - FCP First Contentful Paint
+ - FMP First Meaningful Paint
  - onLoad- Event in Flame Chart.
+ 
 
 ## React dev extension tool
  
